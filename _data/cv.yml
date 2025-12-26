@@ -1,29 +1,29 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Connor Dilgren
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Connor Dilgren
 
 - title: Education
   type: time_table
   contents:
     - title: Master of Science, Computer Science
       institution: University of Maryland, College Park, MD
-      year: 2024 - Present
+      year: August 2024 - Present
     - title: Bachelor of Science, Computer Science
       institution: Oregon State University, Corvallis, OR
-      year: 2022 - 2024
+      year: September 2022 - June 2024
     - title: Bachelor of Science, Mechanical Engineering
       institution: The University of Texas, Austin, TX
-      year: 2015 - 2019
+      year: August 2015 - May 2019
 
 - title: Experience
   type: time_table
   contents:
     - title: Engineer, on Survivability Team
       institution: Bell Textron
-      year: 2019 - 2024
+      year: July 2019 - July 2024
 
     - title: Engineering Intern
       institution: Textron Systems, Hunt Valley, MD
-      year: 2018
+      year: Summer 2018

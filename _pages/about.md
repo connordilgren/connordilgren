@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -19,13 +19,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 Hello! I am a second-year master's student at the University of Maryland, advised by <a href="https://sarahwie.github.io/">Professor Sarah Wiegreffe</a>. My current research interests are in AI (especially LLM) interpretability, how mechanistic interpretability can be used to improve explanations of model behavior, and how these explanations can improve human oversight of AI systems.
 
-Before graduate school, I was an engineer at <a href="https://www.bellflight.com/">Bell</a>, where I worked to improve aircraft safety. I earned my first bachelor's degree in Mechanical Engineering from The University of Texas at Austin, then completed a second bachelor's in Computer Science at Oregon State University while working at Bell.
+Before graduate school, I was an engineer at <a href="https://www.bellflight.com/">Bell</a>, where I worked to improve aircraft safety. I have two bachelor's degrees: one in Mechanical Engineering from The University of Texas at Austin, and another in Computer Science from Oregon State University.
 
 Outside of research, I enjoy playing basketball, hiking, and going to concerts.
